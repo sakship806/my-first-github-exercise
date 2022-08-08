@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 kadhai paneer
 lovely lassi 
 chicken biryani
+=======
+avengers endgame
+inception
+pirates of the carribean
+harry potter
+>>>>>>> movies
